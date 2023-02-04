@@ -1,4 +1,4 @@
-![](./running_03.gif)![](./running_02.gif)![](./running_01.gif)![](./running_04.gif)![](./running_05.gif)![](./running_06.gif)![](./running_07.gif)
+![](./dog_running.gif)
 
 <!--
 **DarkAlessa/DarkAlessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
