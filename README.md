@@ -1,4 +1,4 @@
-![](./dog_running.gif)<br>
+<a href="https://github.com/DarkAlessa"><img src="./dog_running.gif"/></a><br>
 
 <a href="https://github.com/DarkAlessa"><img src="https://streak-stats.demolab.com?user=DarkAlessa&theme=dark"/></a><br>
 
